@@ -1,0 +1,4626 @@
+fileFormatVersion: 2
+guid: 70ae250dbe1d510459c160f4135e9f11
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessRust_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2011
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43484382c5e47a34db91652f3e9dee8a
+      internalID: 707756418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2011
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc7d804e9aa3148bda8d7c94917fd0
+      internalID: 1771792361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2011
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e0b2735cbf5c4bb7dfbcf5df73809
+      internalID: 316997429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2011
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044291dfd5bce3946a22b611e4453218
+      internalID: 470020381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2011
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a00d15f0c7bf0d42bb06a459fcec96c
+      internalID: 1007577706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2011
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6dee709470cd4d8d589f6c7a1e338
+      internalID: 1226244694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2011
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44349c64e93fa7146a555423561ac6f1
+      internalID: 587979793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1947
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cf98e576254c449a18df57f85a207
+      internalID: 1080724622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1947
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46513ce85ee71d1408311de2ff4c7c6c
+      internalID: -1025851802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1947
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f26123dfe5c2e47938dce48318d5cb
+      internalID: 465513244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1947
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4604decd4bd1cc45bc1ab004cc4e970
+      internalID: -1432970077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1947
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9838e93c859184c8f6950cdbae3bd5
+      internalID: 265484561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1947
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4bb5800499735499c59931d68a69d3
+      internalID: -1219254794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1947
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417921a74d01bbb47a6ffc99a7021440
+      internalID: -44814543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1883
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c601392493374892a097cd98a25e8
+      internalID: -774276119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1883
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe9b7f3efe73a489e7aec871976d4c
+      internalID: 1090602223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1883
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ad3c3a358a7194189c181930ae8326
+      internalID: -680688823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1883
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4149e8990bbb21748b0f85d58707ecf0
+      internalID: -1126280044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1883
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39fc55385f7204387ac33eeb9af9e2
+      internalID: 1672207724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1883
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f9680a2912d1548ac453d7af33ec29
+      internalID: 1765157567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1883
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116d0bf4d89be44a8ec177fa363f5d5
+      internalID: 1849370216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1819
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1419019d4fc445a86c83d713f71c5
+      internalID: 2099532473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1819
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba2808447b62c449d8b41086bd505a
+      internalID: 38158872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1819
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08e10ff5a2f7d4f88fff154c9e5ca7
+      internalID: 2026661240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1819
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8544d3f574025468ff5986db1ffb70
+      internalID: -1954812837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1819
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba9f07e30397f844a7a4a12556d8550
+      internalID: -692235862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1819
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7315d38f192243b79e54fb97f6b53
+      internalID: -559075150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1819
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f53cc4caa43154a9ef37bd51f3a3dc
+      internalID: 1611508217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1755
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3cd5d5d2c11a84591771acee06f3b2
+      internalID: 447131005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1755
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109896f383b0aa844a566e932068a3a7
+      internalID: -1835916653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1754
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827d2d8cb7b1424796d065c64b2614f
+      internalID: -2060973185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1754
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83358e4d1493e1a42aaafdb5f0c68b6a
+      internalID: -790918860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1754
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820db22f2952a444abe9d5a363476e69
+      internalID: 1372224638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1754
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72972a9f04b90478ee57bb32d0f194
+      internalID: 177856341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1754
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d26cf5d7589e47a2291b7d9baa26a
+      internalID: 1263259534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1754
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164bfd143cfd1746927cc4dd5ad9b35
+      internalID: 1855886688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1691
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d4a0b051231f4a89f7ceca4a3653f
+      internalID: -1713419495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1691
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545b8884907c04459e14b8d5bee6cbf
+      internalID: 45953888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1691
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144a047e6ad05f4eb08f14b08ce1b70
+      internalID: -45530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1691
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633014445828a7c449f05f4ff8cd0ccb
+      internalID: 1844274400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1691
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e677a03db2ce94b9c65c1964b94f22
+      internalID: 1780180111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1691
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8de5e9d3d99a4d9c06d8e38c94651
+      internalID: -1566420698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1691
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb0cabc869ec34a9d7be17d7f842c5
+      internalID: -921319907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1691
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a261c924f8933504385e15df40cf66cb
+      internalID: 1320611910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1626
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8812fc40c677a49903eea6a9b0537e
+      internalID: -2076454644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1626
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4402a784a0754fa5e8ebace4dc5d2
+      internalID: -1011791683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1626
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50a6e0a1c56144c9f5acf0bd1b33eb
+      internalID: 464845807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1627
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dede1316662e94d99849822c7d6ecf
+      internalID: 467807242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1626
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a7eb25d779b8429c1e70c5f96db9a
+      internalID: 1561425114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1626
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d38b342e5265c742a3032c8d5c2a629
+      internalID: -2062980633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1626
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f469ac9f03e14684ff671b724c7f9
+      internalID: 1027886708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1627
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39739b385dcb1a46bb27e361301a08c
+      internalID: -1498376434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1563
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc3bcf5b77aa9b43b0860cf0db13530
+      internalID: -237604859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1563
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794e572ac0c911848898e90a4fdda3b7
+      internalID: -1796475357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1563
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe65362863d96f48ac407aad7574cd4
+      internalID: -2007311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1563
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761a23388492c0458b0eb77cd8b0e69
+      internalID: 1152167779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1563
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d36b36432c1828418fb1944afb83dfe
+      internalID: -2112807335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1563
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b62f5c489008a478b22de8b116d125
+      internalID: -136524772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1563
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f144789270414785af9aa98d9d58b
+      internalID: -461200429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1563
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085cdef9838944e4aae7ad9b652f3641
+      internalID: 350969628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1499
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a460feee98bd76429b92389fa433373
+      internalID: 940333323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1499
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c2cc8b08ed7741a756ab326edfca2
+      internalID: 2067208711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1499
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956f5104abfdaa641951709812f32c12
+      internalID: -887425509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1498
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8356b4daa63f4cafa60bf925bd978
+      internalID: 1978280984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1499
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7415a4123ec940ae15191a8b01c85
+      internalID: -2036947726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1499
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032d805edb466e4a8b53200140f961f
+      internalID: 1841922899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1499
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf76e949700f3e4b985ae536b8ffc44
+      internalID: 1238009779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1498
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39452ab3deb5540aeeda88f35997c7
+      internalID: -1999925947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1499
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77fc3c849c5d14aae64e40caafb01e
+      internalID: -1836006334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1435
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791bef3461324fa4d942b27f074571c4
+      internalID: 2020986948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1435
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709773cc2c117348abf97943e915d0f
+      internalID: 712124235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1435
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313f52ae1fa4a34bbcb69453ce9a428
+      internalID: 712472201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1435
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91260e0724a1d714da1f1d5f8b8910f3
+      internalID: 722509766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1435
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d768c8cb5fac488e406acfec92c2e
+      internalID: -1533734121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1435
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc16ccd79f9ab41967ab5a64d6ba24
+      internalID: 560521537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1435
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486063f7fd8edc8459f522d6039c94dc
+      internalID: 506094594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1435
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65e3cdd29f91744bb6fc10384fdebc
+      internalID: -374801930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1435
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af76cd64bc04a3488c6f05f4845ddc6
+      internalID: 273661067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1371
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295fe64456b4214fa99cd2769b6d573
+      internalID: 491283629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1371
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437f961b2ca4304b92b25f65ad1e4c8
+      internalID: 999746881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1371
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9113e8076b741e4685350fd1ab90243
+      internalID: 1402319579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1371
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f834406d885d74da87f5ea74e8385f
+      internalID: 1174184229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1371
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf4390da87922949b722ccdacdaa68d
+      internalID: 1678455157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1371
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff7cb546ad4f643927b5623904023f
+      internalID: 2075417708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1371
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59327b216b639a846900c9a9240452e8
+      internalID: 1462426443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_85
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1371
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ec01173b7b814f85012362f150bca
+      internalID: -451515127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_86
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1371
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d01a4923b63154c9c68a27b3554778
+      internalID: 890289422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1307
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38ab9cefc00dc43b17eb5d40239939
+      internalID: 1267117393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1307
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65597344804c80142aeca6133261a013
+      internalID: 326952431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1307
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49755cabbb6597c4c9d626d0ccf057a9
+      internalID: -2013483729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1307
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50738874812d21540b56a1217493be35
+      internalID: 669137526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1307
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ffe98b45e89bd42bdfd2f0110bd774
+      internalID: -1180934061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1307
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0eaad284f129d4bbb9a78e848f90e1
+      internalID: -1223593386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1307
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec8ccf4a5098054e83c19f13773a978
+      internalID: -1577471346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1307
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c015df65a5654f9e1eaffec8a5afe
+      internalID: 595559480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1307
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6fa9172018e2947bf65aa35dff2995
+      internalID: 1315706923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1243
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda63c7a942f0bd46b74943a9d4ba299
+      internalID: 2007410472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1243
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977caa0cc2149994989475f3bc6a0990
+      internalID: 1429135879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1243
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b5279eea8b4b489a9830325e199e1
+      internalID: 216094740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1243
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664b5ff0f3f5364487ef28e4baaa1bc
+      internalID: 172703647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1243
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e8f41da03995b4db7d63e5d2efb060
+      internalID: -1186602450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_101
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1243
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413c8e2ad2b32c74e849f3719ca4eb00
+      internalID: 520408854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1178
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d3df4182b155498418bb0e648456e
+      internalID: 1945258036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1178
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdbe4c16b43e0a4c9366e61b0178840
+      internalID: 851972358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_104
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1179
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edb1687033fdc409194e769920098c
+      internalID: 402325778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1179
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f563a26a78a55848805d27a331a423c
+      internalID: 1701625412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_106
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1179
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebac253aad10f241a6338d0a3eb72af
+      internalID: -1972536845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1178
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf5293e5ab221a448616eb730c756f2
+      internalID: -1268134818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_108
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1115
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57bfdbfb214fd64dae8bd9f99ba62e7
+      internalID: 1893146929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_109
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1115
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5193bbfe79aef41a24b96ab69ee391
+      internalID: -848472927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_110
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1115
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378e69f3d0a20447b4d84d4663b0278
+      internalID: 1686269545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_111
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1115
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13be59b76bb76648891848d608770f7
+      internalID: -1810970141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_112
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1115
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d593d624796974ca67f74d01bf7284
+      internalID: 1246915480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_113
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1115
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cafa0770195ad498d9fb796bba6c79
+      internalID: 1992035568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1051
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b7f7faa0c9654bb80238b195bf8fa
+      internalID: 807410042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1051
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a003fce64a3e47a31aa9a3ae04495
+      internalID: -55278033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_116
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1051
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80c21c56d908e4d8ba73a16130c6d8
+      internalID: 1804558908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1051
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635cec7ef4eac84a9cdcf364d9fb489
+      internalID: 1917675468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1051
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b413f6f3ac7cb6244ae01f8cfdebdb62
+      internalID: 1746387966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1051
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0208799eebc0a24f9f0e64a504fbabf
+      internalID: 836428756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 987
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb5504ab4d1da4fb303de48b3fafac
+      internalID: -213273571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 987
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d844963cd92f2e4aac2c724ed046235
+      internalID: 1025783086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 986
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df22e3737a69d49b343ef4c1def208
+      internalID: -39864411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 986
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6cc8bcc1ddf5418c543b01f5fc151
+      internalID: 746469555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 986
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e39c054ecfd904cab79e040bf2f0b9
+      internalID: 794803227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 986
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda8de6debc8cc448072a9fcb2e0213
+      internalID: -117452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 986
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547ba5a21f425543ba04d4153f8ec75
+      internalID: -553480928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 986
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb0425e3242554ea60199a252e7f93
+      internalID: 757903685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 986
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8de5e707c99343983c0bfcfeb1f29
+      internalID: -961172433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_129
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 986
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250c3e53faf7c842996483f63b7220b
+      internalID: -749673749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 986
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478237b0232ccb4d9ed0e1e3bac1cef
+      internalID: 881065531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 986
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7106e6989e983c42bd5dd65e090192a
+      internalID: -42479941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 986
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3ba94ac204ba41b9bffe6ef427e3d
+      internalID: -806571091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 923
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29328c4c01251d1448824fe9c130040b
+      internalID: 1666211106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 923
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e153f1775b578b4392fb16b810f9a14
+      internalID: -406850753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 923
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47708d55dbb4dda4fb667c40d4e5672e
+      internalID: -1179945153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_136
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 923
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac69377955d864798dbe2ca7c09184
+      internalID: -1883104032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_137
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 923
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bb3f635a4e634a908846e60a8d682
+      internalID: 2054245074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 923
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758b48453bee46a46925e49ea59339fb
+      internalID: -534173108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_139
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 923
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f15b6e28168e34096e48a92669ea5d
+      internalID: -1935664030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_140
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 923
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35a27ebe4c285448e65c3daa48ad01
+      internalID: -1377930177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_141
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 923
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce549a0aa6d164eab749bd69ba81fd
+      internalID: 218866728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_142
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 923
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd052df338dc504d9cc875913f79762
+      internalID: 157208563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 923
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c33ce1014a97d4aa505ff18c7c0da2
+      internalID: -1531529217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_144
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 923
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247390383890f546bbc41702ff3729f
+      internalID: -920384430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_145
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 923
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945701022bc066c4eb12a50ef145d173
+      internalID: 150152510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 859
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51ace9db9c62847a3a24b3a62b2a0c
+      internalID: 1903973624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 859
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1af4580232cad94b98caeaaaf734958
+      internalID: -1753297212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_148
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 859
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834c861074c123498a5ec87abcb213f
+      internalID: -928950695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 859
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d393565fe43355489e196b2278f9064
+      internalID: 1785417061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ac616ad1124144bf6b8056d844aea
+      internalID: 592826139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d64b301a703c1d469d488480c11f22a
+      internalID: 180985520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba74ed7c131853842a5823bd583643e5
+      internalID: 1406425681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d630aa066e2d489a04b93af4aa89b
+      internalID: 1676894054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d3fdeb0f6f434dbf2288638138858
+      internalID: -1769109392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45170fb71eeda7940afb398a53f2e68b
+      internalID: -2015841032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 859
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8743ec3e517840a69ff784b77ce03
+      internalID: 1862227762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 859
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e6566f625a714e934b8a53145b693
+      internalID: -1314003305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_158
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 859
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b774b80a194e48832880b882ef4f6
+      internalID: -2124685620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_159
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 795
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4394740da95b49bca62ed6dcde874
+      internalID: -1540048231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 795
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26654ba2d116909458b536e4e37bc5fa
+      internalID: 2011698328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_161
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 795
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616d7148d60d584d9a20b583d5a353c
+      internalID: -1634303579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_162
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 795
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0e523b7c80b2d4bb89f1e06225a1b1
+      internalID: 1065727082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 795
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786ddd9ced5d1e4fbbe95966dc9dfed
+      internalID: 82899606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 795
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de83e4f29757d4d8b9e37ba8a26943
+      internalID: -1574436227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_165
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 795
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf44d7b7de2014f941886b21f3ac5e
+      internalID: 1216785836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 795
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85749be72b5afc642b88e769ade2982d
+      internalID: -1685480982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_167
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 795
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c9e18f06b7f141bda780d55567548
+      internalID: -1925780023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 795
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79637e0d992f314b8c69cc45cd62bb8
+      internalID: -1360537930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_169
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 795
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f9fa9d621bf0409c81db820f669ef
+      internalID: 1960800188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 795
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ead5a4d5ffbae94894830dcc6ce08ad
+      internalID: -105011008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_171
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 795
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77eef418bb849d4b9a0865434f292d8
+      internalID: 559766919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_172
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ad42ca518ecca48bd86708a0df6e81
+      internalID: -1597611544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_173
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 731
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f777b57e02e7074aa6aa1e6d49ee7b0
+      internalID: -1157852254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_174
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 731
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf048449e51c5aa41838cef24f84ce81
+      internalID: -1097733624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_175
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 731
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88640dca81ea641972e7539f81e6ca
+      internalID: 1903061181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 732
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75e882ed672734ca5d9fc7dbe24076
+      internalID: -1911432312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_177
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 731
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5919c98eb5822141b81a7c97778aa4e
+      internalID: -1190724248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 603
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf3f81e3186724b8c9c066afbf2f46
+      internalID: 1726265250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_179
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 603
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065dc4af313ab448b4ffaf95811e037
+      internalID: -245576817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_180
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 603
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd8fbd37e506e4e887cce7f222a6c4
+      internalID: -1580375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_181
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 603
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acdc461992ba9a4ebbb6efcc610aedd
+      internalID: 1342799239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_182
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 603
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c703fcd339fe742b093835190afbdb
+      internalID: 796597132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_183
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 603
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd2ba7dcd78b142a0898bd063df684
+      internalID: -1981903343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_184
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 410
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada0207d399c974a9587cafe399c118
+      internalID: 241719031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_185
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 411
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd295217626184da294517812c5837
+      internalID: -893479621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_186
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 411
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d4d0a78bfccc438c476896537cc60
+      internalID: -111351755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_187
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 411
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8821cc16bdf6048a8070f81fdac04b
+      internalID: -1561242138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_188
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 411
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3509be4750c34b831b7099c4172b1
+      internalID: 1171327701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_189
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 411
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0db002b91cbcb4b8453ee16e7c4350
+      internalID: 225532283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_190
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 217
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca5bf2244a48e43ba2c882abc8cfed
+      internalID: 193956820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_191
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 218
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce14afca76d8849b0bb291d8a24f30
+      internalID: -1138857574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_192
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 218
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e8e33f226a9e4cb191de603f348f2
+      internalID: 1692369074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_193
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 218
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449e1ca551efff4aae8bea0d47ea131
+      internalID: -1739545702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_194
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 200
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91870e51d127f44993c21c46a80491
+      internalID: -1972796965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_195
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 203
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6ddf1fd652fc47aaf6042113f7e2e
+      internalID: -1802638574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_196
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 26
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30929731d702dba469adc2f7cceb5f30
+      internalID: 949021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_197
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 27
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487db162b8c77294ba679a18433eabb4
+      internalID: -784543732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_198
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 27
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af775a8d1f5f6448b1860fbced0746a
+      internalID: -1192272049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_199
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 27
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1b826b03953746ab169b71787001b
+      internalID: 1098445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_200
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 27
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca110474a8b9e2148a6bc9cdf4781425
+      internalID: 526102609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRust_201
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 27
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73e606c4017cf4289c2f936795ae2b
+      internalID: 254513399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PrincessRust_12: -1219254794
+      PrincessRust_131: -42479941
+      PrincessRust_73: -1533734121
+      PrincessRust_127: 757903685
+      PrincessRust_200: 526102609
+      PrincessRust_149: 1785417061
+      PrincessRust_165: 1216785836
+      PrincessRust_100: -1186602450
+      PrincessRust_112: 1246915480
+      PrincessRust_182: 796597132
+      PrincessRust_32: 1372224638
+      PrincessRust_95: 1315706923
+      PrincessRust_156: 1862227762
+      PrincessRust_155: -2015841032
+      PrincessRust_23: 2026661240
+      PrincessRust_87: 1267117393
+      PrincessRust_164: -1574436227
+      PrincessRust_94: 595559480
+      PrincessRust_128: -961172433
+      PrincessRust_143: -1531529217
+      PrincessRust_63: 1978280984
+      PrincessRust_132: -806571091
+      PrincessRust_169: 1960800188
+      PrincessRust_117: 1917675468
+      PrincessRust_48: 1561425114
+      PrincessRust_74: 560521537
+      PrincessRust_153: 1676894054
+      PrincessRust_199: 1098445544
+      PrincessRust_148: -928950695
+      PrincessRust_102: 1945258036
+      PrincessRust_64: -2036947726
+      PrincessRust_137: 2054245074
+      PrincessRust_194: -1972796965
+      PrincessRust_147: -1753297212
+      PrincessRust_8: -1025851802
+      PrincessRust_33: 177856341
+      PrincessRust_106: -1972536845
+      PrincessRust_166: -1685480982
+      PrincessRust_201: 254513399
+      PrincessRust_18: 1672207724
+      PrincessRust_113: 1992035568
+      PrincessRust_179: -245576817
+      PrincessRust_160: 2011698328
+      PrincessRust_130: 881065531
+      PrincessRust_45: -1011791683
+      PrincessRust_159: -1540048231
+      PrincessRust_27: 1611508217
+      PrincessRust_28: 447131005
+      PrincessRust_51: -1498376434
+      PrincessRust_59: 350969628
+      PrincessRust_167: -1925780023
+      PrincessRust_41: -1566420698
+      PrincessRust_197: -784543732
+      PrincessRust_121: 1025783086
+      PrincessRust_183: -1981903343
+      PrincessRust_6: 587979793
+      PrincessRust_188: 1171327701
+      PrincessRust_140: -1377930177
+      PrincessRust_158: -2124685620
+      PrincessRust_93: -1577471346
+      PrincessRust_109: -848472927
+      PrincessRust_40: 1780180111
+      PrincessRust_120: -213273571
+      PrincessRust_11: 265484561
+      PrincessRust_56: -2112807335
+      PrincessRust_66: 1238009779
+      PrincessRust_105: 1701625412
+      PrincessRust_60: 940333323
+      PrincessRust_91: -1180934061
+      PrincessRust_13: -44814543
+      PrincessRust_187: -1561242138
+      PrincessRust_49: -2062980633
+      PrincessRust_189: 225532283
+      PrincessRust_190: 193956820
+      PrincessRust_24: -1954812837
+      PrincessRust_118: 1746387966
+      PrincessRust_134: -406850753
+      PrincessRust_186: -111351755
+      PrincessRust_79: 999746881
+      PrincessRust_0: 707756418
+      PrincessRust_54: -2007311557
+      PrincessRust_26: -559075150
+      PrincessRust_3: 470020381
+      PrincessRust_142: 157208563
+      PrincessRust_193: -1739545702
+      PrincessRust_46: 464845807
+      PrincessRust_108: 1893146929
+      PrincessRust_65: 1841922899
+      PrincessRust_198: -1192272049
+      PrincessRust_195: -1802638574
+      PrincessRust_34: 1263259534
+      PrincessRust_123: 746469555
+      PrincessRust_76: -374801930
+      PrincessRust_181: 1342799239
+      PrincessRust_172: -1597611544
+      PrincessRust_92: -1223593386
+      PrincessRust_82: 1678455157
+      PrincessRust_90: 669137526
+      PrincessRust_14: -774276119
+      PrincessRust_83: 2075417708
+      PrincessRust_58: -461200429
+      PrincessRust_4: 1007577706
+      PrincessRust_145: 150152510
+      PrincessRust_37: 45953888
+      PrincessRust_129: -749673749
+      PrincessRust_53: -1796475357
+      PrincessRust_19: 1765157567
+      PrincessRust_141: 218866728
+      PrincessRust_77: 273661067
+      PrincessRust_20: 1849370216
+      PrincessRust_29: -1835916653
+      PrincessRust_81: 1174184229
+      PrincessRust_10: -1432970077
+      PrincessRust_125: -117452763
+      PrincessRust_151: 180985520
+      PrincessRust_36: -1713419495
+      PrincessRust_163: 82899606
+      PrincessRust_104: 402325778
+      PrincessRust_175: 1903061181
+      PrincessRust_115: -55278033
+      PrincessRust_2: 316997429
+      PrincessRust_7: 1080724622
+      PrincessRust_69: 2020986948
+      PrincessRust_15: 1090602223
+      PrincessRust_152: 1406425681
+      PrincessRust_97: 1429135879
+      PrincessRust_70: 712124235
+      PrincessRust_71: 712472201
+      PrincessRust_35: 1855886688
+      PrincessRust_62: -887425509
+      PrincessRust_135: -1179945153
+      PrincessRust_126: -553480928
+      PrincessRust_184: 241719031
+      PrincessRust_47: 467807242
+      PrincessRust_154: -1769109392
+      PrincessRust_177: -1190724248
+      PrincessRust_22: 38158872
+      PrincessRust_99: 172703647
+      PrincessRust_173: -1157852254
+      PrincessRust_86: 890289422
+      PrincessRust_50: 1027886708
+      PrincessRust_185: -893479621
+      PrincessRust_96: 2007410472
+      PrincessRust_17: -1126280044
+      PrincessRust_89: -2013483729
+      PrincessRust_84: 1462426443
+      PrincessRust_25: -692235862
+      PrincessRust_42: -921319907
+      PrincessRust_191: -1138857574
+      PrincessRust_44: -2076454644
+      PrincessRust_103: 851972358
+      PrincessRust_57: -136524772
+      PrincessRust_157: -1314003305
+      PrincessRust_162: 1065727082
+      PrincessRust_98: 216094740
+      PrincessRust_38: -45530305
+      PrincessRust_61: 2067208711
+      PrincessRust_122: -39864411
+      PrincessRust_67: -1999925947
+      PrincessRust_80: 1402319579
+      PrincessRust_178: 1726265250
+      PrincessRust_171: 559766919
+      PrincessRust_39: 1844274400
+      PrincessRust_107: -1268134818
+      PrincessRust_139: -1935664030
+      PrincessRust_119: 836428756
+      PrincessRust_136: -1883104032
+      PrincessRust_110: 1686269545
+      PrincessRust_9: 465513244
+      PrincessRust_30: -2060973185
+      PrincessRust_43: 1320611910
+      PrincessRust_124: 794803227
+      PrincessRust_31: -790918860
+      PrincessRust_72: 722509766
+      PrincessRust_146: 1903973624
+      PrincessRust_75: 506094594
+      PrincessRust_21: 2099532473
+      PrincessRust_101: 520408854
+      PrincessRust_133: 1666211106
+      PrincessRust_170: -105011008
+      PrincessRust_168: -1360537930
+      PrincessRust_111: -1810970141
+      PrincessRust_68: -1836006334
+      PrincessRust_16: -680688823
+      PrincessRust_1: 1771792361
+      PrincessRust_88: 326952431
+      PrincessRust_85: -451515127
+      PrincessRust_55: 1152167779
+      PrincessRust_52: -237604859
+      PrincessRust_144: -920384430
+      PrincessRust_176: -1911432312
+      PrincessRust_114: 807410042
+      PrincessRust_116: 1804558908
+      PrincessRust_150: 592826139
+      PrincessRust_180: -1580375201
+      PrincessRust_161: -1634303579
+      PrincessRust_78: 491283629
+      PrincessRust_138: -534173108
+      PrincessRust_5: 1226244694
+      PrincessRust_196: 949021560
+      PrincessRust_192: 1692369074
+      PrincessRust_174: -1097733624
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

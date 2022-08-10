@@ -13,7 +13,7 @@ TagManager:
   - UI
   - Player
   - Terrain
-  - 
+  - Buildings
   - 
   - 
   - 
@@ -38,8 +38,11 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
+  - name: Water1
+    uniqueID: 2847143365
+    locked: 0
+  - name: Water2
+    uniqueID: 295156759
     locked: 0
   - name: Terrain
     uniqueID: 2627360111
@@ -50,6 +53,18 @@ TagManager:
   - name: Walls
     uniqueID: 2455117257
     locked: 0
+  - name: Buildings
+    uniqueID: 1154098343
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Player
     uniqueID: 1332433327
+    locked: 0
+  - name: Buildings2
+    uniqueID: 1808869873
+    locked: 0
+  - name: Decorations
+    uniqueID: 2268652835
     locked: 0

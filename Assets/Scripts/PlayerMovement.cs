@@ -11,8 +11,8 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private float runSpeed = 5f;
 
-    private Rigidbody2D playerBox; //so we can affect the player's body for hits and movement
-    private BoxCollider2D myBody; //So we know where the player is
+    private Rigidbody2D myBody; //so we can affect the player's body for hits and movement
+    private BoxCollider2D playerBox; //So we know where the player is
     private SpriteRenderer mySprite; //so we can alter the sprite if required
     private Animator myAnims;  //so we can trigger animations
 
@@ -22,15 +22,15 @@ public class PlayerMovement : MonoBehaviour
     public MOVESTATE playerState;
     private void Awake()
     {
-        playerBox = GetComponent<Rigidbody2D>();
-        myBody = GetComponent<BoxCollider2D>();
+        myBody = GetComponent<Rigidbody2D>();
+        playerBox = GetComponent<BoxCollider2D>();
         mySprite = GetComponent<SpriteRenderer>();
         playerState = 0;
     }
 
     void Start()
     {
-        myAnims = GetComponent<Animator>();
+        myAnims = GetComponent<Animator>();        
     }
 
     void Update()
@@ -53,19 +53,19 @@ public class PlayerMovement : MonoBehaviour
         //may need "if(!canMove){}
 
         playerMovement = new Vector2(moveInput.x, moveInput.y);
-        playerBox.velocity = playerMovement * runSpeed;
+        myBody.velocity = playerMovement * runSpeed;
     }
 
     void CheckAnim()
     {
-        myAnims.SetFloat("Horizontal", playerBox.velocity.x);
-        myAnims.SetFloat("Vertical", playerBox.velocity.y);
-        myAnims.SetFloat("Speed", playerBox.velocity.sqrMagnitude); //sets speed to square of vector of movement x+y
+        myAnims.SetFloat("Horizontal", myBody.velocity.x);
+        myAnims.SetFloat("Vertical", myBody.velocity.y);
+        myAnims.SetFloat("Speed", myBody.velocity.sqrMagnitude); //sets speed to square of vector of movement x+y
     }
 
     void CheckCam()
     {
-        if(playerBox.velocity.x > 0)
+        if(myBody.velocity.x > 0)
         {
             mySprite.flipX = false;
         }

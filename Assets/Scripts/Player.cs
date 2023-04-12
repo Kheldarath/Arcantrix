@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public static Player _instance;
+    public static Player instance;
     public string lastArea;
-
+    private Vector3 bottomLeftLimit, topRightLimit; //so we can keep the player in bounds
 
     void Start()
     {
-        if (_instance == null)
+        if (instance == null)
         {
-            _instance = this;
+            instance = this;
         }
         else
         {
@@ -25,6 +25,12 @@ public class Player : MonoBehaviour
     
     void Update()
     {
-        
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, bottomLeftLimit.x, topRightLimit.x), Mathf.Clamp(transform.position.y, bottomLeftLimit.y, topRightLimit.y), transform.position.z);
+    }
+
+    public void ClampPlayer(Vector3 botLeft, Vector3 topRight)
+    {
+        bottomLeftLimit = botLeft + new Vector3(1f,1f,0f);
+        topRightLimit = topRight + new Vector3(-1f, -1f, 0f);        
     }
 }

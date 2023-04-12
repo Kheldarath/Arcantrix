@@ -18,8 +18,7 @@ public class AreaExit : MonoBehaviour
     {
         player = FindObjectOfType<Player>();
         controller = FindObjectOfType<UIController>();
-        uiFade = controller.uiFade;
-       
+               
     }
 
     private void Update()
@@ -39,7 +38,7 @@ public class AreaExit : MonoBehaviour
     {
         if (coll.tag == "Player")
         {
-            uiFade.FadeToBlack();
+            controller.uiFade.FadeToBlack();
 
             PlayerMovement.instance.canMove = false;
 
@@ -51,7 +50,7 @@ public class AreaExit : MonoBehaviour
     void LoadNextScene()
     {
         ShouldLoadAfterFade = true;
-        uiFade.FadeToBlack();
+        controller.uiFade.FadeToBlack();
 
         player.lastArea = exitName;
         

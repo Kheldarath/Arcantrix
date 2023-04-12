@@ -15,6 +15,8 @@ public class UIController : MonoBehaviour
 
     private void Start()
     {
+        uiFade = GetComponent<UIFade>();
+        dialogueManager = GetComponent<DialogueManager>();
 
         if (instance == null)
         {
@@ -28,8 +30,7 @@ public class UIController : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
 
-        uiFade = GetComponentInChildren<UIFade>();
-        dialogueManager = GetComponentInChildren<DialogueManager>();
+       
     }
 
 }
